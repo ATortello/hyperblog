@@ -6,3 +6,9 @@ This is the first repo on GitHub, it has all the knowledge acquired during my ti
 
 -> Línea de prueba No. 1
 -> Línea de prueba No. 2
+-> Línea de prueba No. 2
+
+-> Línea de prueba No. 3
+-> Línea de prueba No. 4
+
+-> Línea de prueba No. 5
